@@ -1,0 +1,7 @@
+ignoredBuiltDependencies:
+  - bcrypt
+  - esbuild
+  - unrs-resolver
+  - "@prisma/client"
+  - "@prisma/engines"
+  - prisma
